@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "logo";
+    src: url(/fonts/Parkinsans-SemiBold.ttf);
+  }
+  @font-face {
+    font-family: "header";
+    src: url(/fonts/Parkinsans-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: "regular-bold";
+    src: url(/fonts/Montserrat-Bold.ttf);
+  }
+  
+  @font-face {
+    font-family: "regular";
+    src: url(/fonts/Montserrat-Regular.ttf);
+  }
